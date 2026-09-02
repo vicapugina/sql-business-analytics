@@ -14,6 +14,14 @@
 
 ## 📂 Структура репозитория
 
+sql-business-analytics/
+│
+├── README.md
+│
+├── task_1_popular_products/
+│   ├── solution.sql
+│   └── insights.md
+
 *   `queries/` — папка с SQL-запросами:
     *   `01_basic_queries.sql` — базовые запросы (SELECT, WHERE, фильтрация)
     *   `02_aggregations.sql` — агрегация и группировка данных
